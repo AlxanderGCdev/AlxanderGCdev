@@ -27,11 +27,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AlxanderGCdev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlxanderGCdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlxanderGCdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/alexandergcastillo/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/AlxanderGCdev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <!--
 **AlxanderGCdev/AlxanderGCdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
